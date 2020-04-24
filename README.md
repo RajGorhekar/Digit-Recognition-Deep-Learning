@@ -8,14 +8,13 @@
 
 Here are a Few screenshots from the App :
 
-<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss1.png"  width ="265">.
-<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss5.png"  width ="262">.
-<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss4.png"  width ="265">
+<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss1.png"  width ="275">.
+<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss5.png"  width ="275">.
+<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss6.png"  width ="275">
 
-<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss2.png"  width ="265">.
-<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss3.png"  width ="265">.
-<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss6.png"  width ="265">
-
+<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss4.png"  width ="275">.
+<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss2.png"  width ="275">.
+<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss3.png"  width ="275">
 
 ### Requirements :
 - Tkinter
