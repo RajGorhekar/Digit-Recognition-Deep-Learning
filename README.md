@@ -6,6 +6,8 @@
 
 <img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/head.png" width ="20"  >Accuracy Score of the model was 0.9727 ( Refer Guess.ipynb model training , its summary , and Data Visualization
 
+Here are a Few screenshots from the App :
+
 <img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss1.png"  width ="265">.
 <img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss5.png"  width ="262">.
 <img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss4.png"  width ="265">
