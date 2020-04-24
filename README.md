@@ -16,7 +16,7 @@ Here are a Few screenshots from the App :
 <img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss2.png"  width ="275">.
 <img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/ss3.png"  width ="275">
 
-### Requirements :
+### Requirements / Modules used :
 - Tkinter
 - PIL
 - H5py
