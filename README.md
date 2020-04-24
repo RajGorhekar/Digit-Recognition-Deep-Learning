@@ -4,7 +4,7 @@
 
 <img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/head.png" width ="20"  > It allows the user to draw a number on the screen and the Most recent image of Canvas is saved and then it is passed to the model for Prediction
 
-<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/head.png" width ="20"  >Accuracy Score of the model was 0.9727 ( Refer Guess.ipynb model training , its summary , and Data Visualization
+<img src="https://github.com/RajGorhekar/Digit-Recognition-Deep-Learning/blob/master/Screenshots/head.png" width ="20"  > Accuracy Score of the model was **0.9727** ( Refer Guess.ipynb model training , its summary , and Data Visualization
 
 Here are a Few screenshots from the App :
 
