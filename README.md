@@ -20,7 +20,7 @@ Here are a Few screenshots from the App :
 - Tkinter
 - PIL
 - H5py
-- Tensroflow
+- Tensorflow
 - Keras
 - Numpy
 - Matplotlib
