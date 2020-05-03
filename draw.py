@@ -56,7 +56,7 @@ def guess():
         pred = model.predict(img.reshape(-1,784))
         print(pred)
         print(np.argmax(pred))
-        if(np.sum(pred) != 0):
+        if(pred[np.argmax(pred)] > 0.001):
             messagebox.showinfo('Answer' , 'I think the Number is ' + str(np.argmax(pred)))
         else:
             messagebox.showinfo('Answer' , ' Unable to read Image try Again !' )
