@@ -13,7 +13,7 @@ import numpy as np
 
 model = keras.models.load_model("model.h5")
 
-width = 20
+width = 30
 image = PIL.Image.new("RGB", (400, 400), (0, 0, 0))
 draw = ImageDraw.Draw(image)
 
